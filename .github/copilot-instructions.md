@@ -22,7 +22,18 @@
   - Pas d’introductions ni de conclusions longues : commence directement par la partie utile de la réponse.
   - Tes interventions doivent être concises et faciles à lire. Utilise des points de formes et des listes pour synthétiser.
 
+## Project
+
 * [PROJECT_STRUCTURE](../_GUIDES/PROJECT_STRUCTURE.md): L'architecture générale du projet, les choix de patrons et de design à respecter lors du développement
+
+## Backend  
+
 * [BACKEND_STRUCTURE](../_GUIDES/BACKEND_STRUCTURE.md): Structure du backend à respecter.
+* [BACKEND_CODING_STANDARDS](../_GUIDES/BACKEND_CODING_STANDARDS.md): Standard de code backend.
+
+
+## Frontend 
+
 * [FRONTEND_STRUCTURE](../_GUIDES/FRONTEND_STRUCTURE.md): Structure du frontend à respecter.
+* [FRONTEND_CODING_STANDARDS](../_GUIDES/FRONTEND_CODING_STANDARDS.md): Standard de code frontend.
 
