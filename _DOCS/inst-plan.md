@@ -1,0 +1,1 @@
+Analyse la situation et réponds sans coder.

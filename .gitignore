@@ -7,4 +7,8 @@ cypress/videos
 # macOS
 .DS_Store
 _TODOS/
+!_TODOS/_template.md
 _DOCS/
+!_DOCS/inst-plan.md
+!_DOCS/inst-todo.md
+
