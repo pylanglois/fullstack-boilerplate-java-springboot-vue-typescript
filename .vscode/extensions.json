@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-java-pack",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar"
+  ]
+}

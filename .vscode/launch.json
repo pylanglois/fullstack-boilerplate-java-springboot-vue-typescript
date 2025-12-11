@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Backend (Spring Boot)",
+      "request": "launch",
+      "mainClass": "co.devskills.springbootboilerplate.SpringBootBoilerplateApplication",
+      "cwd": "${workspaceFolder}/app-backend",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "node-terminal",
+      "name": "Run Frontend (Vite Dev Server)",
+      "request": "launch",
+      "command": "cmd /c \"npm install && npm run dev\"",
+      "cwd": "${workspaceFolder}/app-frontend"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Launch Fullstack App",
+      "configurations": [
+        "Debug Backend (Spring Boot)",
+        "Run Frontend (Vite Dev Server)"
+      ]
+    }
+  ]
+}
